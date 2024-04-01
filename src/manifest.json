@@ -1,37 +1,37 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "§3Sapling §7Addon §a1.19.80+",
-		"description": "§2Developed by Alecs",
-		"uuid": "793a4d65-01a3-42a1-be3e-65d33a3c8217",
-		"min_engine_version": [1, 19, 50],
-		"version": [1, 0, 2]
+		"name": "§qSapling §2Stable §u1.0",
+		"description": "Developed by §uAlecs",
+		"uuid": "803a4d54-12b2-42a1-ad1c-65d33a3c8296",
+		"min_engine_version": [1, 20, 0],
+		"version": [1, 0, 0]
 	},
 	"modules": [
 		{
 			"description": "Behavior Pack Module",
 			"type": "data",
-			"uuid": "43954081-a1e3-46bd-8865-dc49b58d5a6a",
-			"version": [1, 0, 1]
+			"uuid": "54953981-b2d6-24df-8865-dc49b58d5a5b",
+			"version": [1, 0, 0]
 		},
 		{
 			"description": "Gametest Module",
 			"type": "script",
 			"language": "javascript",
 			"entry": "scripts/main.js",
-			"uuid": "07eeb331-31a7-4182-81a4-f6b62795011e",
-			"version": [1, 0, 1]
+			"uuid": "18eeb320-42c9-3051-81a4-f6b62795010d",
+			"version": [1, 0, 0]
 		}
 	],
 	"capabilities": ["script_eval"],
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": "1.2.0-beta"
+			"version": "1.10.0-beta"
 		},
 		{
-             "module_name": "@minecraft/server-gametest",
-             "version": "1.0.0-beta"
-        }
-    ]
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		}
+	]
 }

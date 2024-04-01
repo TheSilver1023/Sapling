@@ -1,12 +1,16 @@
-// Sapling Core
-import 'src/sapling.js'
+import 'src/config/database'
+import 'src/config/langs'
 
+import 'src/functions/sapling'
+import 'src/functions/func'
+import 'src/functions/static'
 
-// Src Imports
-import 'src/lib/commands/sapling.js'
-import 'src/lib/commands/fakeplayer.js'
-import 'src/lib/commands/data.js'
-
-
-import 'src/lib/database.js'
-import 'src/lib/servers.js'
+import 'src/commands/sapling'
+import 'src/commands/func'
+import 'src/commands/camera'
+import 'src/commands/help'
+import 'src/commands/fakeplayer'
+import 'src/commands/prof'
+import 'src/commands/calc'
+import 'src/commands/hss'
+import 'src/commands/config'
