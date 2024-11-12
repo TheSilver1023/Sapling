@@ -1,0 +1,12 @@
+{
+  "name": "saplingcui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cls && node --watch ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
