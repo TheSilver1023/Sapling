@@ -6,7 +6,7 @@
 > - New subcommands system.
 > - Texture channels system
 ## Sapling features
-### - Sapling `server` section
+### Sapling `server` section
 > - `dispensableBlocks` added
 > - `instamineEndstone` added
 > - `railDuping` added
@@ -20,7 +20,7 @@
 > - `cauldronConcrete` added
 > - `cauldronMud` added
 > - `phantomDisable` added
-### - Sapling `client` section
+### Sapling `client` section
 > - `itemMagnet` added
 > - `smartHoe` added
 > - `debugScreen` added
@@ -32,7 +32,7 @@
 > - `flippinCactus` extracted from `server-section`
 > - `chunkBorders` extracted from `server-section`
 > - `redstoneIndicator` extracted from `server-section`
-### - Sapling `engine` section
+### Sapling `engine` section
 > - `simulatedHss` added
 > - `javaMobCap` added
 > - `gamerulexFix` extracted from `config-command`
