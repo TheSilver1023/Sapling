@@ -1,12 +1,18 @@
 # Sapling 2.0 Changelog
-## General changes:
+
+---
+
+# General changes:
 > - Updated to 1.21.41+
 > - Many optimization improvements.
 > - Entire core rewrite.
 > - New subcommands system.
 > - Texture channels system
-## Sapling features
-### Sapling `server` section
+
+---
+
+# Sapling features
+## Sapling `server` section
 > - `dispensableBlocks` added
 > - `instamineEndstone` added
 > - `railDuping` added
@@ -20,7 +26,7 @@
 > - `cauldronConcrete` added
 > - `cauldronMud` added
 > - `phantomDisable` added
-### Sapling `client` section
+## Sapling `client` section
 > - `itemMagnet` added
 > - `smartHoe` added
 > - `debugScreen` added
@@ -32,13 +38,15 @@
 > - `flippinCactus` extracted from `server-section`
 > - `chunkBorders` extracted from `server-section`
 > - `redstoneIndicator` extracted from `server-section`
-### Sapling `engine` section
+## Sapling `engine` section
 > - `simulatedHss` added
 > - `javaMobCap` added
 > - `gamerulexFix` extracted from `config-command`
 > - `freeCamera` added
 
-## Commands
+---
+
+# Commands:
 > - `#` prefix support
 > - `fc` (freeCamera toggle) added (requires freeCamera engine enabled)
 > - `gm` (gamemode changer) added 
