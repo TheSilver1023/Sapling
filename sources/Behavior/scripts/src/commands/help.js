@@ -27,6 +27,11 @@ function Help(sender) {
 
     const SERVER_DB = new JsonDB('ServerGamerules');
     const ENGINE_DB = new JsonDB('EngineGamerules');
+    const filteredTags = sender.getTags()
+        .filter((t) => t.startsWith('cr:'))
+        .map((t) => t.replace('cr:', ''));
+
+    const renderText = filteredTags.length > 0 ? `\n    §6Disabled: §7${filteredTags.join(', ')}` : ''
 
     const SERVER = Object.values(module.exports['Server'])
         .map(_ => `${_} ${SERVER_DB.get(_) ? '§2true§r' : '§4false§r'}`);
@@ -87,7 +92,7 @@ function Help(sender) {
         FAKEPLAYER: './fakeplayer --help\n' + FakeplayerCmd(undefined, true),
         GM: isAdmin ? './gm <d/s/c/g>' : null,
         FC: ENGINE_DB.get('freeCamera') ? './fc': null,
-        RENDER: sender.hasTag('client:disableRendering') ? './render <entityId>': null
+        RENDER: sender.hasTag('client:disableRendering') ? `./render <entityId>${renderText}`: null
     }
 
     let helpText = `${DandelionLogo}§r\n`;
