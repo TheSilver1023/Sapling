@@ -1,8 +1,1 @@
-# Ignorar node_modules y archivos específicos en BP
-sources/Sapling\ \[BP\]/node_modules/
-sources/Sapling\ \[BP\]/package-lock.json
-
-# Ignorar archivos y carpetas específicos en RP
-sources/Sapling\ \[RP\]/package.json
-sources/Sapling\ \[RP\]/template/
-sources/Sapling\ \[RP\]/index.js
+**/node_modules/
