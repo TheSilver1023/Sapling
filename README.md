@@ -1,4 +1,4 @@
-![Sapling Banner](docs/assets//banner.jpg)
+![Sapling Banner](docs/assets/banner.jpg)
 
 # Sapling
 
