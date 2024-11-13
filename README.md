@@ -21,12 +21,6 @@ We're proud to have reached **800+ members**! Your support helps us improve and 
 
 Stay up to date with the latest improvements, bug fixes, and new features. Our changelog records everything we do to give you the best experience possible!
 
-<!--
-    
-[![Contribute to Sapling](https://img.shields.io/badge/Contribute-%E2%9A%A1-green?style=for-the-badge)](https://github.com/SaplingDevs/Sapling/CONTRIBUTING.md)  
-Want to help improve Sapling? Check out our [contributing guide](https://github.com/SaplingDevs/Sapling/CONTRIBUTING.md) and join the project!
--->
-
 ---
 
 # How to use
