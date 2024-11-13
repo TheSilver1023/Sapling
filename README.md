@@ -44,13 +44,14 @@ Want to help improve Sapling? Check out our [contributing guide](https://github.
 | 🛠️ Sapling Extension Compiler | 1-2 Months | ⌛ | Not yet |
 | 🫂 Custom Villages API | 1-2 Months | ⌛ | Not yet |
 | 🏠 Java Village Engine | 2-3 Months | ⌛ | Not yet |
---- 
 
 Here's a legend to guide you:
 
 - ✅: Task is completed. Woohoo! 🎉
 - 🚧: Task is under way. We're on it! 💪
 - ⏳: Task is up next. Exciting things are coming! 🌠
+
+---
 
 ### Inspirations & Special Thanks
 We’d like to extend special thanks to the following projects for their inspiration and contributions:
