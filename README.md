@@ -18,3 +18,12 @@
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SaplingDevs/Sapling&type=Timeline)](https://star-history.com/#SaplingDevs/Sapling&Timeline)
+
+--- 
+
+### Inspirations & Special Thanks
+We’d like to extend special thanks to the following projects for their inspiration and contributions:
+- [**Gnembon**](https://github.com/gnembon) and his [**Carpet Mod**](https://github.com/gnembon/carpetmod) – for inspiring some of the core mechanics and functionalities in Sapling.
+- [**Maruohon**](https://github.com/maruohon/tweakeroo) and his [**Tweakeroo**](https://github.com/maruohon) mod – for ideas that helped shape user experience improvements.
+- [**LeviLamina Team**](https://github.com/LiteLDev/LeviLamina) – for providing some particles that were adapted into Sapling.
+- [**ForestOfLight**](https://github.com/ForestOfLight) – for inspiring the cauldron functions and related mechanics.
