@@ -256,7 +256,7 @@
             {
                 "touch_icon": {
                     "type": "image",
-                    "texture": "textures/sapling_ui/buttons/gray/default"
+                    "texture": "textures/ui/dev_glyph_color"
                 }
             }
         ],
