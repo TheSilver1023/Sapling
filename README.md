@@ -21,18 +21,14 @@ We're proud to have reached **800+ members**! Your support helps us improve and 
 
 Stay up to date with the latest improvements, bug fixes, and new features. Our changelog records everything we do to give you the best experience possible!
 
-<!--
-    
-[![Contribute to Sapling](https://img.shields.io/badge/Contribute-%E2%9A%A1-green?style=for-the-badge)](https://github.com/SaplingDevs/Sapling/CONTRIBUTING.md)  
-Want to help improve Sapling? Check out our [contributing guide](https://github.com/SaplingDevs/Sapling/CONTRIBUTING.md) and join the project!
--->
-
 ---
 
 # How to use
-1. Put the files in your world and set enable the Beta APIs experiment.
-2. Use `/tag @s add sapling_admin` to have access to all functions
-3. Put `#help` or `./help` in the chat!
+1. Download the .mcpacks in the last release
+2. Import both files in your Minecraft 
+3. Put the BP & RP in your world and set enable the Beta APIs experiment.
+4. Use `/tag @s add sapling_admin` to have access to all functions
+5. Put `#help` or `./help` in the chat!
 
 ---
 
