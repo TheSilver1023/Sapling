@@ -1,5 +1,5 @@
 # What is Sapling?
-> Sapling is a suite of utilities and tools for Minecraft Bedrock, focused primarily on TMC. It enhances Quality of Life (QoL), optimizes performance, ensures parity, and offers a variety of engines, server-side and client-side features, and more!
+> Sapling is an open-source suite of utilities and tools for Minecraft Bedrock, focused primarily on TMC. It enhances Quality of Life (QoL), optimizes performance, ensures parity, and offers a variety of engines, server-side and client-side features, and more!
 
 ![Sapling Banner](docs/assets/sapling.jpg)
 
