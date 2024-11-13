@@ -29,6 +29,13 @@ Want to help improve Sapling? Check out our [contributing guide](https://github.
 
 ---
 
+# How to use
+1. Put the files in your world and set enable the Beta APIs experiment.
+2. Use `/tag @s add sapling_admin` to have access to all functions
+3. Put `#help` or `./help` in the chat!
+
+---
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SaplingDevs/Sapling&type=Timeline)](https://star-history.com/#SaplingDevs/Sapling&Timeline)
 
