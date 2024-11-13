@@ -32,7 +32,25 @@ Want to help improve Sapling? Check out our [contributing guide](https://github.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=SaplingDevs/Sapling&type=Timeline)](https://star-history.com/#SaplingDevs/Sapling&Timeline)
 
+---
+
+# Things to Do
+> Sapling is continuously evolving and developing. Here are some exciting features and updates planned for its future:
+
+| Sapling API   | Duration   | State   | Since |
+| :-----------  | :--------: | :-----: | :---: |
+| 📦 Extensions API | 1-2 Months | ⌛ | Not yet |
+| 📥 Extension Loader in game | 1-2 Months | ⌛ | Not yet |
+| 🛠️ Sapling Extension Compiler | 1-2 Months | ⌛ | Not yet |
+| 🫂 Custom Villages API | 1-2 Months | ⌛ | Not yet |
+| 🏠 Java Village Engine | 2-3 Months | ⌛ | Not yet |
 --- 
+
+Here's a legend to guide you:
+
+- ✅: Task is completed. Woohoo! 🎉
+- 🚧: Task is under way. We're on it! 💪
+- ⏳: Task is up next. Exciting things are coming! 🌠
 
 ### Inspirations & Special Thanks
 We’d like to extend special thanks to the following projects for their inspiration and contributions:
