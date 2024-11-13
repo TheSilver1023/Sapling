@@ -41,7 +41,7 @@
 ## Sapling `engine` section
 > - `simulatedHss` added
 > - `javaMobCap` added
-> - `gamerulexFix` extracted from `config-command`
+> - `gamerulesFix` extracted from `config-command`
 > - `freeCamera` added
 
 ---
