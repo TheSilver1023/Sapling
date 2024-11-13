@@ -8,7 +8,7 @@
 > - Entire core rewrite.
 > - New subcommands system.
 > - Texture channels system
-
+> - Now you require the tag `sapling_admin` to toggle server & engine features
 ---
 
 # Sapling features
