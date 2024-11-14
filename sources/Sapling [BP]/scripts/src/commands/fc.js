@@ -12,6 +12,8 @@ new Command()
 const Cameras = new JsonDB('SaplingCameras');
 
 function FCCallback(sender) {
+    if (world.isHardcore) return;
+    
     system.run(() => {
         const enabled = sender.hasTag('fc:toggle');
 
