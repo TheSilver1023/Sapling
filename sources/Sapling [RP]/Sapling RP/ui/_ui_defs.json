@@ -1,0 +1,6 @@
+{
+	"ui_defs": [
+		"ui/sapling/chest_peek.json",
+		"ui/sapling/debug_screen.json"
+	]
+}
