@@ -10,5 +10,6 @@
 # Commands
 > - `freecamera` added
 > - `fc` (`#freecamera` shortcurt) added
-> - `ss` (`#sapling server` shortcurt) added
 > - `sc` (`#sapling client` shortcurt) added
+> - `ss` (`#sapling server` shortcurt) added
+> - `se` (`#sapling engine` shortcurt) added
