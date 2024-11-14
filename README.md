@@ -4,7 +4,7 @@
 ![Sapling Banner](docs/assets/sapling.jpg)
 
 # Why Choose Sapling?
-> Sapling is built on our custom scripting API modules, giving us unmatched control over performance (Say goodbye to TPS drops!), scalability, support, and other key areas.
+> Sapling is built on our [custom scripting API modules](https://github.com/SaplingDevs/script-api), giving us unmatched control over performance (Say goodbye to TPS drops!), scalability, support, and other key areas.
 >
 > But what’s in it for users?  
 > For players like you and me, Sapling delivers a broad array of features—from simple mechanics like TNT duplication to advanced engines like simulatedHSS, and much more!
