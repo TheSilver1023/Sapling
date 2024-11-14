@@ -3,18 +3,24 @@ $directory_rp = 'C:\Users\Alecs\AppData\Local\Packages\Microsoft.MinecraftUWP_8w
 
 $repository_destination = 'C:\Users\Alecs\Desktop\Programming\Addons\Sapling\sources'
 
+if (Test-Path $repository_destination) {
+    Remove-Item "$repository_destination\*" -Recurse -Force
+}
+
 if (Test-Path $directory_bp) {
     $new_name_bp = 'Sapling [BP]'
-    Copy-Item -Path $directory_bp -Destination "$repository_destination\$new_name_bp" -Recurse
-    Write-Host "Copied BP directory as $new_name_bp."
-} else {
-    Write-Host "The BP directory does not exist."
+    $new_dir_bp = "$repository_destination\$new_name_bp"
+    if (-not (Test-Path $new_dir_bp)) {
+        New-Item -Path $new_dir_bp -ItemType Directory
+    }
+    Copy-Item -Path "$directory_bp\*" -Destination $new_dir_bp -Recurse
 }
 
 if (Test-Path $directory_rp) {
     $new_name_rp = 'Sapling [RP]'
-    Copy-Item -Path $directory_rp -Destination "$repository_destination\$new_name_rp" -Recurse
-    Write-Host "Copied RP directory as $new_name_rp."
-} else {
-    Write-Host "The RP directory does not exist."
+    $new_dir_rp = "$repository_destination\$new_name_rp"
+    if (-not (Test-Path $new_dir_rp)) {
+        New-Item -Path $new_dir_rp -ItemType Directory
+    }
+    Copy-Item -Path "$directory_rp\*" -Destination $new_dir_rp -Recurse
 }
