@@ -7,6 +7,7 @@
 
 # Sapling Features
 > - `infiniteTrades` added in `server` section
+> - `debugScreen` now updates in 1 gt cycles and shows an xyz cursor when the player crouches
 
 # Commands
 > - `freecamera` added
